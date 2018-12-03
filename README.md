@@ -1,6 +1,12 @@
 # MathemaTactics
 MathemaTactics: A mobile educational math game
 
+Credits: 
+Tom Bar Ezer Ayalon- Music/SFX
+Jennifer Kim- Programming
+Wesley Pickering- UI
+Sabrina Wong- Art
+
 ## Privacy Policy
 
 Sabrina Wong built the MathemaTactics app as a Free app. This SERVICE is provided by Sabrina Wong at no cost and is intended for use as is.
