@@ -3,8 +3,11 @@ MathemaTactics: A mobile educational math game
 
 Credits: 
 Tom Bar Ezer Ayalon- Music/SFX
+
 Jennifer Kim- Programming
+
 Wesley Pickering- UI
+
 Sabrina Wong- Art
 
 ## Privacy Policy
